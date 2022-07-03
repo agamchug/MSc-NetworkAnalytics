@@ -12,4 +12,5 @@ How do traders' opinions map onto the physical layout of the trading floor?
 What are the network-related obstacles to the diffusion of positive opinions about AI in the trading floor?
 What is your recommendation to promote the diffusion of positive opinions about AI in the trading floor?
 
-#### 3. AI_diffusion.ipynb is the jupyter notebook with all the code and explanation.
+#### 3. AI_diffusion.ipynb 
+the jupyter notebook with all the code and explanation.
